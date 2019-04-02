@@ -5,7 +5,7 @@
 //  Created by D7703_04 on 2019. 3. 12..
 //  Copyright © 2019년 test. All rights reserved.
 //
-
+//201753005
 import UIKit
 
 class ViewController: UIViewController {
@@ -15,7 +15,7 @@ class ViewController: UIViewController {
     var _min = 0
     var _sec = 0
     var _timer = Timer()
-    //fdsfdsfsd
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         
